@@ -2,6 +2,7 @@ black
 flake8
 isort
 jupyter
+jupyterlab
 mypy
 numpy
 pandas
