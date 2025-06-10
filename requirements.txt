@@ -7,7 +7,7 @@ mypy
 numpy
 pandas
 matplotlib
-phreeqpy
+phreeqpy @ git+https://github.com/hydrocomputing/phreeqpy.git
 geopandas
 scipy
 sympy

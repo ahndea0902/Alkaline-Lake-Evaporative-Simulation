@@ -1,0 +1,1 @@
+System requirement: libiphreeqc.so must be installed and registered in system library path (/usr/local/lib, ldconfig, or LD_LIBRARY_PATH).
