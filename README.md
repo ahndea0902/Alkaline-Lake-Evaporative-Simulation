@@ -1,1 +1,1 @@
-System requirement: libiphreeqc.so must be installed and registered in system library path (/usr/local/lib, ldconfig, or LD_LIBRARY_PATH).
+System requirement: IPhreeqc 3.7.3 https://web.archive.org/web/20241204104450/https://water.usgs.gov/water-resources/software/PHREEQC/iphreeqc-3.7.3-15968.tar.gz
