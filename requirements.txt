@@ -1,0 +1,14 @@
+black
+flake8
+isort
+jupyter
+mypy
+numpy
+pandas
+matplotlib
+phreeqpy
+geopandas
+scipy
+sympy
+pathlib
+xarray
