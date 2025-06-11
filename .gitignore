@@ -2,4 +2,4 @@
 .vscode
 data
 phreeqpy
-__pycache__/
+src/__pycache__/
