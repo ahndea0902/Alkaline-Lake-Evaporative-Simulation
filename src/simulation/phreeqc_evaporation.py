@@ -1,12 +1,4 @@
-# Import standard libraries
-import os
-import sys
-
-# Import necessary libraries
-import numpy as np
-import pandas as pd
-import seaborn as sns
-
+# Import phreeqpy library
 from phreeqpy.iphreeqc.phreeqc_dll import IPhreeqc
 
 # 인스턴스 생성
