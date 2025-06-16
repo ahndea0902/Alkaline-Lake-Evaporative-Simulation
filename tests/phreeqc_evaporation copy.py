@@ -93,7 +93,7 @@ PHASES
 
 EQUILIBRIUM_PHASES 1 # Fix CO2(g) at -3.3 log10
     CO2(g) {CO2_pressure_input} 1e+6
-    Monohydrocalcite 0 {current_input['MHC']} 
+    Monohydrocalcite 0 {current_input['MHC']}
 
 MIX 3 # Evaporatied water
     1   1
@@ -105,7 +105,7 @@ REACTION 3
 
 EQUILIBRIUM_PHASES 3 # Fix CO2(g) at -3.3 log10
     CO2(g) {CO2_pressure_input} 1e+6
-    Monohydrocalcite 0 {current_input['MHC']} 
+    Monohydrocalcite 0 {current_input['MHC']}
 
 SELECTED_OUTPUT
     -file false
@@ -161,14 +161,3 @@ END
     current_input["ALK"] = values.get("Alk(eq/kgw)", current_input["ALK"])
     current_input["pH"] = values.get("pH", current_input["pH"])
     current_input["MHC"] = values.get("Monohydrocalcite", current_input["MHC"])
-
-
-# Print the output
-for idx, row in enumerate(simulated_output, 0):
-    print(f"\nStep {idx + 1} Output\n")
-    for h, v in zip(header, row):
-        # If the data is a float, format it to 3 decimal places
-        if isinstance(v, float):
-            print(f"{h}: {v:.3e}")
-        else:
-            print(f"{h}: {v}")
