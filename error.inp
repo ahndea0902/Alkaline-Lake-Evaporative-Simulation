@@ -1,84 +1,57 @@
 SOLUTION_RAW                 1 
-  -temp                      19.8
+  -temp                      25
   -pressure                  1
   -potential                 0
-  -total_h                   111.01460712346
-  -total_o                   55.51249735196
-  -cb                        2.5279205908305e-05
-  -density                   0.99839622765921
+  -total_h                   12.120394490927
+  -total_o                   6.0641573412542
+  -cb                        -0.0008514978938999
+  -density                   0.99804854900299
   -totals
-    C(4)                     0.001589870468034
-    Ca                       0.00063875442886372
-    Cl                       0.00028206357713028
-    K                        4.3735916906873e-05
-    Mg                       0.00033326476033738
-    Na                       0.00038886810672559
-    S(6)                     0.00021964980949803
-    Si                       0.00016022502714924
-  -pH                        8.5
+    C(4)                     0.00051151205323147
+    Ca                       0.00020604885272468
+    Cl                       0.0002820635771448
+    K                        4.3735916909101e-05
+    Mg                       0.00022476669573538
+    Na                       0.00038886810674494
+    S(6)                     0.00065803836099881
+    Si                       1.5560941281506e-05
+  -pH                        8.6894768591904
   -pe                        4
-  -mu                        0.0034180632412593
-  -ah2o                      0.99993868035006
-  -mass_water                1
-  -soln_vol                  1.0017943241647
-  -total_alkalinity          0.00163
+  -mu                        0.021252172936562
+  -ah2o                      0.99965873440689
+  -mass_water                0.10917568889497
+  -soln_vol                  0.10951965064869
+  -total_alkalinity          0.00054759271533165
   -activities
-    Alkalinity               -4.7214615300672
-    C(4)                     -4.7214615300672
-    Ca                       -3.3261916742314
-    Cl                       -3.5772319292973
+    Alkalinity               -4.0700804992351
+    C(4)                     -4.0700804992351
+    Ca                       -3.1098256442103
+    Cl                       -2.6507589166493
     E                        -4
-    H(0)                     -28.127113980164
-    K                        -4.3872426147837
-    Mg                       -3.6055924963473
-    Na                       -3.4381150873795
-    O(0)                     -37.833780729802
-    S(-2)                    -77.876713683731
-    S(6)                     -3.8092904960747
-    Si                       -3.8124732436772
-  -gammas
-SOLUTION_RAW                 2 
-  -temp                      19.8
-  -pressure                  1
-  -potential                 0
-  -total_h                   0.012363228002398
-  -total_o                   0.0061923825594109
-  -cb                        2.6968736616702e-06
-  -density                   1.0023950363821
-  -totals
-    C(4)                     1.3890437351993e-07
-    Ca                       2.8505353319058e-06
-    Cl                       1.1134903640257e-06
-    K                        1.9040685224839e-07
-    Mg                       9.0192719486081e-07
-    Na                       9.9546038543897e-07
-    S(6)                     2.3494646680942e-06
-    Si                       5.0107066381156e-07
-  -pH                        8.5
-  -pe                        4
-  -mu                        0.084831542510611
-  -ah2o                      0.99877606456535
-  -mass_water                0.00011134903640257
-  -soln_vol                  0.00011157009858784
-  -total_alkalinity          1.8149892933619e-07
-  -activities
-    Alkalinity               -4.9936696112964
-    C(4)                     -4.9936696112964
-    Ca                       -2.1048003494712
-    Cl                       -2.1079264174074
-    E                        -4
-    H(0)                     -28.127113980164
-    K                        -2.8889602206794
-    Mg                       -2.6136054797469
-    Na                       -2.1578795589783
-    O(0)                     -37.834791214521
-    S(-2)                    -76.38277429312
-    S(6)                     -2.3173720749086
-    Si                       -2.359659778453
+    H(0)                     -28.528953718381
+    K                        -3.4692750760589
+    Mg                       -3.0857944640911
+    Na                       -2.5164435959651
+    O(0)                     -35.322389033357
+    S(-2)                    -79.094744308302
+    S(6)                     -2.5400455158229
+    Si                       -3.8788694407166
   -gammas
 EQUILIBRIUM_PHASES_RAW       3 
   # EXCHANGE_MODIFY candidates; use new_def=true #
   -new_def                   0
+  -component                 AMC
+      # EQUILIBRIUM_PHASES_MODIFY candidate identifiers #
+      -si                    0
+      -moles                 0
+      -force_equality        0
+      -dissolve_only         0
+      -precipitate_only      0
+      # PPassemblage workspace variables #
+      -si_org                0
+      -delta                 0
+      -initial_moles         0
+      -totals                
   -component                 CO2(g)
       # EQUILIBRIUM_PHASES_MODIFY candidate identifiers #
       -si                    -3.3
@@ -91,10 +64,22 @@ EQUILIBRIUM_PHASES_RAW       3
       -delta                 0
       -initial_moles         0
       -totals                
-  -component                 Monohydrocalcite
+  -component                 MHC
       # EQUILIBRIUM_PHASES_MODIFY candidate identifiers #
       -si                    0
-      -moles                 10
+      -moles                 0.00043270557862479
+      -force_equality        0
+      -dissolve_only         0
+      -precipitate_only      0
+      # PPassemblage workspace variables #
+      -si_org                0
+      -delta                 0
+      -initial_moles         0
+      -totals                
+  -component                 MSH
+      # EQUILIBRIUM_PHASES_MODIFY candidate identifiers #
+      -si                    0
+      -moles                 0.00014466408587607
       -force_equality        0
       -dissolve_only         0
       -precipitate_only      0
@@ -104,12 +89,21 @@ EQUILIBRIUM_PHASES_RAW       3
       -initial_moles         0
       -totals                
   -eltList                   # List of all elements in phases and alternate reactions
-    C                        2
+    C                        3
     Ca                       1
-    H                        2
-    O                        6
+    H                        10.5
+    Mg                       1.75
+    O                        16
+    Si                       1
   # PPassemblage workspace variables #
   -assemblage_totals
-MIX_RAW                      3 
-  1     2335000000000
-  2     260000000
+REACTION_RAW                 1 
+  -reactant_list
+    H2O                      -6.1808107563451
+  -steps
+    1 
+  -count_steps               0
+  -equal_increments          0
+  -units                     Mol
+  # REACTION workspace variables #
+  -element_list
