@@ -1,0 +1,105 @@
+SOLUTION_RAW                 1 
+  -temp                      25
+  -pressure                  1
+  -potential                 0
+  -total_h                   111.01307045094
+  -total_o                   55.507739964492
+  -cb                        -5.345176341473e-14
+  -density                   0.99716437216734
+  -totals
+    Ca                       0.00063875442886435
+    Cl                       0.0019259907585282
+    K                        4.3735916906873e-05
+    Mg                       0.00033326476033774
+    Na                       0.00038886810672559
+    S(6)                     0.00021965438267863
+    Si                       0.00016022502714924
+  -pH                        8.5
+  -pe                        4
+  -mu                        0.0034778415646659
+  -ah2o                      0.99993724810837
+  -mass_water                1
+  -soln_vol                  1.0029933089175
+  -total_alkalinity          1.1342878204652e-05
+  -activities
+    Ca                       -3.3128858347318
+    Cl                       -2.7433883503913
+    E                        -4
+    H(0)                     -28.150000000005
+    K                        -4.3877432466425
+    Mg                       -3.5976143512432
+    Na                       -3.4381197654448
+    O(0)                     -36.080054507316
+    S(6)                     -3.8152928566552
+    Si                       -3.8160136679609
+  -gammas
+EQUILIBRIUM_PHASES_RAW       1 
+  # EXCHANGE_MODIFY candidates; use new_def=true #
+  -new_def                   0
+  -component                 AMC_TK
+      # EQUILIBRIUM_PHASES_MODIFY candidate identifiers #
+      -si                    0
+      -moles                 0
+      -force_equality        0
+      -dissolve_only         0
+      -precipitate_only      0
+      # PPassemblage workspace variables #
+      -si_org                0
+      -delta                 0
+      -initial_moles         0
+      -totals                
+  -component                 CO2(g)
+      # EQUILIBRIUM_PHASES_MODIFY candidate identifiers #
+      -si                    -3.3
+      -moles                 1000
+      -force_equality        0
+      -dissolve_only         0
+      -precipitate_only      0
+      # PPassemblage workspace variables #
+      -si_org                -3.3
+      -delta                 0
+      -initial_moles         0
+      -totals                
+  -component                 MSH075KF
+      # EQUILIBRIUM_PHASES_MODIFY candidate identifiers #
+      -si                    0
+      -moles                 0
+      -force_equality        0
+      -dissolve_only         0
+      -precipitate_only      0
+      # PPassemblage workspace variables #
+      -si_org                0
+      -delta                 0
+      -initial_moles         0
+      -totals                
+  -component                 Monohydrocalcite
+      # EQUILIBRIUM_PHASES_MODIFY candidate identifiers #
+      -si                    0
+      -moles                 0
+      -force_equality        0
+      -dissolve_only         0
+      -precipitate_only      0
+      # PPassemblage workspace variables #
+      -si_org                0
+      -delta                 0
+      -initial_moles         0
+      -totals                
+  -eltList                   # List of all elements in phases and alternate reactions
+    C                        3
+    Ca                       1
+    H                        10.5
+    Mg                       1.75
+    O                        16
+    Si                       1
+  # PPassemblage workspace variables #
+  -assemblage_totals
+REACTION_RAW                 1 
+  -reactant_list
+    H2O                      -1
+  -steps
+    55.505 
+  -count_steps               100
+  -equal_increments          1
+  -units                     Mol
+  # REACTION workspace variables #
+  -element_list
