@@ -6,6 +6,8 @@ jupyterlab
 mypy
 numpy
 pandas
+pandas-stubs
+pathlib
 matplotlib
 seaborn
 phreeqpy
