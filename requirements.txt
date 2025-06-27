@@ -16,3 +16,4 @@ scipy
 sympy
 pathlib
 xarray
+scikit-learn
