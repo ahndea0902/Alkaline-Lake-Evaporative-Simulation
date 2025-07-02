@@ -5,3 +5,5 @@ src/__pycache__/
 random.md
 data/data.db
 data/field_data.csv
+data/ICP-OES data/ICP-OES_data.csv
+data/Ion-chromatography data/Ionchro_data.csv

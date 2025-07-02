@@ -56,6 +56,17 @@ CREATE TABLE instrumental_measurement (
     REFERENCES sample(smp_id)                -- Foreign key constraint
 );
 
+-- Table: phreeqc_calculation (Water quality calculation)
+CREATE TABLE phreeqc_calculation (
+  phrq_id   INTEGER PRIMARY KEY AUTOINCREMENT, -- Unique ID for each phreeqc calculation
+  smp_id    INTEGER NOT NULL,                  -- Reference to sample
+  param     TEXT    NOT NULL,                  -- phreeqc calculation parameter
+  value     REAL    NULL,                      -- Analyzed parameter
+  unit      TEXT    NOT NULL,                  -- Unit of parameter
+  FOREIGN KEY(smp_id)
+    REFERENCES sample(smp_id)                  -- Foreign key constraint
+);
+
 -- Table: evaporative_simulation (Simulation metadata)
 CREATE TABLE evaporative_simulation (
   evap_id   INTEGER PRIMARY KEY AUTOINCREMENT, -- Unique ID for each evaporative simulation run
