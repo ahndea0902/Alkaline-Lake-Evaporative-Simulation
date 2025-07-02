@@ -1,5 +1,7 @@
 .venv
 .vscode
-data
 phreeqpy
 src/__pycache__/
+random.md
+data/data.db
+data/field_data.csv
