@@ -16,3 +16,5 @@ scipy
 sympy
 xarray
 scikit-learn
+psycopg2-binary
+sqlalchemy
