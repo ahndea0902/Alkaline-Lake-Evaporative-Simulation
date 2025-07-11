@@ -1,0 +1,60 @@
+Water system name,Water body type,Water body name,Water body abbraviation,Sampling station,Sample name,Sampling date,Sample type,Latitude,Longitude,Elevation,Sample memo,pH,Temperature [C],Alkalinity [meq/L],Electrical conductivity [mS/m],Oxidation-reduction potential [mV],Dissolved oxygen [mg/L],Flow rate [m3/s],Na+ [ppm],Ca++ [ppm],K+ [ppm],Mg++ [ppm],Si [ppm],Cl- [ppm],SO4-- [ppm],NO2- [ppm],NO3- [ppm]
+,,,,,Olgoy_Basalt,2024-05-09,Solid,46.174669,99.995192,1999,Collected basalt,,,,,,,,,,,,,,,,
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,3,BTS_03,2024-08-02,Solid,45.603778,98.980889,,Floating sediments,,,,,,,,0,78.2,22.3,7.33,0,0,0,0,0
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,3,BTS_03,2024-08-02,Solid,45.607604,98.979188,,Collected sediments,,,,,,,,,,,,,,,,
+Orog Lake,Lake,Orog Lake,Orog Lake,,Orog,2024-08-01,Solid,45.0687,100.57225,1202,"Dried Lake, Collected Salt",,,,,,,,,,,,,,,,
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,1,BTS_01,2024-05-08,Water,45.612994,99.229542,1305,,9.12,13.5,15,881,104,,,1490,26.6,88.7,233,0.709,1550,1880,0,0
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,3,BTS_03,2024-05-08,Water,45.607683,98.979019,1302,,8.88,20.4,18.7,1100,,,,1930,41.6,150,291,1.12,1980,2600,0,0
+Boon Tsagaan Lake,River,Baidrag River,BD,1,BD_01,2024-05-08,Water,46.1764,99.265456,1547,,8.26,13.8,2.02,36.7,,,,10.7,25.8,1.56,9.71,3.29,4.84,29.3,0.50,1.94
+Boon Tsagaan Lake,River,Baidrag River,BD,01-1,BD_01-1,2024-05-09,Water,46.176078,99.264506,1552,Considered diluted by rain a day before,7.77,10.5,1.63,22.1,,,,7.17,22.3,1.5,6.58,2.82,3.49,21.9,0.39,1.54
+Boon Tsagaan Lake,River,Baidrag River,BD,2,BD_02,2024-05-08,Water,45.861392,99.337881,1434,,8.28,15.1,1.95,26.5,,,,9.52,24.4,1.35,9.49,3.18,5.2,30.6,0.43,1.51
+Boon Tsagaan Lake,River,Baidrag River,BD,T,BD_T,2024-05-08,Water,46.175,99.025292,1858,,8.61,15.5,4.18,49.8,,,,24,43.1,3.28,16.7,6.38,12.8,36.7,2.01,5.6
+Olgoy Lake,Lake,Olgoy Lake,Olgoy Lake,,Olgoy,2024-05-09,Water,46.562472,100.112353,2035,,9.27,13.4,15.4,225,,,,251,11,21.5,148,0,144,207,0,0
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,1,BTS_01,2024-06-15,Water,45.610945,99.228536,,Collected by Baaska,9.2,21.8,14.1,995,207,,,1760,28.4,108,207,0.242,1810,2230,0,0
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,3,BTS_03,2024-06-15,Water,45.600978,98.982341,,Collected by Baaska,9.09,20.2,14.5,959,185,,,1770,27.9,109,275,0.255,1810,2320,0,0
+Boon Tsagaan Lake,River,Baidrag River,BD,1,BD_01,2024-06-15,Water,46.176389,99.265278,,Collected by Baaska,8.31,20.8,2.1,35.6,205,,,14.4,37.6,2.01,14.31,3.07,6.88,48.3,0.865,2.22
+Boon Tsagaan Lake,River,Baidrag River,BD,2,BD_02,2024-06-15,Water,45.861389,99.337889,,Collected by Baaska,8.83,23.9,2.01,35.2,235,,,14.5,37,2.15,14.79,2.78,6.6,49.1,0.766,1.19
+Boon Tsagaan Lake,River,Baidrag River,BD,T,BD_T,2024-06-15,Water,46.175556,99.025306,,Collected by Baaska,8.91,19.2,3.29,52.4,230,,,33.3,46.9,3.67,19.87,8.28,17.1,49.3,1.57,9.6
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,1,BTS_01,2024-08-03,Water,45.613139,99.229333,1304,,9.05,25.8,17.7,972,165,5.35,,1770,30.7,109,270,0.299,2000,2230,0,0
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,2,BTS_02,2024-08-02,Water,45.659667,99.151611,1337,,9.04,24.2,16.8,995,176,4.5,,1810,30,110,278,0.367,1890,2340,0,0
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,3,BTS_03,2024-08-02,Water,45.603778,98.980889,,,9.09,23.7,16.8,998,120,4.88,,1800,29.8,110,276,0.255,1800,2330,0,0
+Boon Tsagaan Lake,River,Baidrag River,BD,E1,BD_E1,2024-08-03,Water,45.631383,99.269986,1310,,8.33,21.7,2.08,38.5,155,5.27,6.74,12.3,32.4,2.16,11.4,2.82,5.74,34.7,0.56,0
+Boon Tsagaan Lake,River,Baidrag River,BD,E2,BD_E2,2024-08-03,Water,45.627231,99.270925,1309,,8.09,22.6,2.16,30.3,184,5.17,1.02,12.5,32.7,2.19,11.5,2.82,5.83,34.7,0.57,0
+Boon Tsagaan Lake,River,Baidrag River,BD,1,BD_01,2024-08-04,Water,46.176111,99.264528,,,7.52,21.1,1.59,21.8,226,4.69,,7.26,25.7,2.94,5.15,3.89,3.46,15.1,0.26,1.80
+Boon Tsagaan Lake,River,Baidrag River,BD,2,BD_02,2024-08-04,Water,45.860889,99.338222,,,7.83,19.9,1.86,28.2,242,5.01,,10.4,29.2,3.97,7.65,3.74,4.99,22.4,0.55,0
+Boon Tsagaan Lake,River,Baidrag River,BD,02D,BD_02D,2024-08-04,Water,46.040028,99.293056,,,7.8,20.8,1.72,24.1,209,4.6,,8.09,27.5,3.48,6.69,3.84,3.84,17.4,0.42,1.78
+Boon Tsagaan Lake,River,Baidrag River,BD,T,BD_T,2024-08-04,Water,46.174694,99.025444,,"Little water, No flow",,,,,,,,,,,,,,,,
+Boon Tsagaan Lake,Well,Boon Tsagaan Lake,BTS,Well 2,BTS_Well_2,2024-08-02,Water,45.617546,99.256193,,,7.68,12.9,2.2,85.6,139,4.19,,11.2,39.9,1.78,9.22,5.96,4.27,33,0.71,2.99
+Boon Tsagaan Lake,Well,Boon Tsagaan Lake,BTS,West,BTS_West,2024-08-02,Water,45.613468,98.938962,,Dried Well,,,,,,,,,,,,,,,,
+Boon Tsagaan Lake,Well,Boon Tsagaan Lake,BTS,South,BTS_South,2024-08-03,Water,45.580519,99.296081,1310,Water level is Altitude - 2m,7.48,20.3,2.19,28.5,215,4.72,,14,32.3,2.02,7.97,6.9,3.27,17.9,0.60,2.17
+Orog Lake,River,Tuin River,Tuin River,1,Tuin_river_01,2024-08-01,Water,45.191611,100.779556,1268,,8.49,24,2.65,40.5,146,4.85,0.109,20.6,43.7,2.25,9.28,5.42,15,35.2,1.20,0
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,1,BTS_01,2024-08-31,Water,45.61345,99.24549,,Collected by Baaska,8.85,21.6,5.85,208,99,5.94,,341.8905541,30.35115044,20.55976808,45.77062496,2.193473089,103,150,0,0
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,2,BTS_02,2024-08-31,Water,45.669238,99.162821,,Collected by Baaska,9.37,21.4,15.8,862,127,12.1,,1680,30.22792149,100.4957514,263.8614915,0.77,1680,1800,0,0
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,3,BTS_03,2024-08-31,Water,45.607648,99.97885,,"Collected by Baaska, ORP was saying negative maybe something wrong",9.39,21.3,14.2,760,-25,7.99,,1500,26.47704957,96.48251114,222.3788214,1.72,1620,1980,0,0
+Boon Tsagaan Lake,River,Baidrag River,BD,E1,BD_E1,2024-08-31,Water,45.627231,99.270925,,"Collected by Baaska, large one",8.5,19.8,1.63,21.3,117,5.53,16.2,8.94,25.64241468,1.712550636,8.098310604,4.500902154,10,21.1,0,0.96
+Boon Tsagaan Lake,River,Baidrag River,BD,E2,BD_E2,2024-08-31,Water,45.631383,99.269986,,"Collected by Baaska, small one, Another tributary existed except BD River Estuary 1 and 2",8.3,20.5,1.63,21.5,121,5.44,2.23,8.87,25.46288641,1.68872612,8.018988922,4.485522524,12.2,26.3,0.02,1.23
+Boon Tsagaan Lake,River,Baidrag River,BD,1,BD_01,2024-08-30,Water,46.176111,99.264528,,"Collected by Baaska, very light rain",8.39,17.3,1.53,19.12,220,4.84,,10.6,24.50391488,1.539375482,7.701778607,4.198838079,5.68,18.3,0,0.63
+Boon Tsagaan Lake,River,Baidrag River,BD,2,BD_02,2024-08-30,Water,45.861944,99.336944,,Collected by Baaska,8.25,17.9,1.63,19.76,224,5.26,,8.68,25.05395088,1.656339027,8.017075,4.568291366,13.2,19.9,0,1.12
+Boon Tsagaan Lake,River,Baidrag River,BD,02D,BD_02D,2024-08-30,Water,46.0325,99.288333,,"Collected by Baaska, couldn reach the same point as last time so walked little down from the previous point",8.18,17.6,1.64,19.55,228,5.05,,8.66,25.00037495,1.59327685,7.963349153,4.459603038,11.4,21,0.24,0.71
+Boon Tsagaan Lake,River,Baidrag River,BD,T,BD_T,2024-08-30,Water,46.174694,99.025444,,"Collected by Baaska, very light rain",8.45,14.6,3.99,45,141,5.76,,43.3,45.75102615,5.009684795,22.37282776,3.636029091,21.5,55.7,0.72,5.14
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,1,BTS_01,2024-10-09,Water,45.614381,99.244948,,,8.96,15.3,4.09,96.6,50,10.24,,103.1489521,30.38186577,7.278555981,29.31577352,1.88,264,250,0,0
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,2,BTS_02,2024-10-09,Water,45.659956,99.153292,1297,,9.13,12.5,16,752,101,7.44,,1769.614186,32.18152509,105.3681656,282.549675,0.35,1530,1800,0,0
+Boon Tsagaan Lake,Lake,Boon Tsagaan Lake,BTS,3,BTS_03,2024-10-09,Water,45.607672,98.979383,1280,,9.04,6.5,14.6,614,88,7.24,,1670,30.1879434,99.99562815,263.1792516,0.46,1330,1550,0,0
+Boon Tsagaan Lake,River,Baidrag River,BD,E1,BD_E1,2024-10-09,Water,45.631383,99.269986,,,8.22,11.2,1.82,20.2,110,10.07,11.1,11.21199969,29.44827323,1.628711653,10.87907673,1.90419467,9.57,25,0.14,0.54
+Boon Tsagaan Lake,River,Baidrag River,BD,E1-1,BD_E1-1,2024-10-09,Water,,,,"A few meters north from the BD River Estuary 1, Tributary of the BD River Estuary 1",,,,,,,0.192,,,,,,,,,
+Boon Tsagaan Lake,River,Baidrag River,BD,E2-1,BD_E2-1,2024-10-09,Water,45.630653,99.267672,1312,"A few meters south from BD River Estuary 2, merged with another tributary that did not exist at Aug",8.66,12.2,1.87,21.6,102,7.05,0.931,11.37671793,29.71242064,1.687105879,10.53025773,1.881519659,12.1,31.6,0.28,0.63
+Boon Tsagaan Lake,River,Baidrag River,BD,1,BD_01,2024-10-10,Water,46.175764,99.265862,,,8.17,8.9,1.93,22.8,111,11.83,,14.56054071,32.01027086,1.728947469,13.32509606,2.47654147,11.2,50.2,0.22,2.31
+Boon Tsagaan Lake,River,Baidrag River,BD,2,BD_02,2024-10-10,Water,45.860092,99.341607,,,8.07,8.2,1.94,19.1,92,12.9,,11.50021301,29.89647764,4.443600512,10.97006506,2.070410677,12.5,32,0,0.87
+Boon Tsagaan Lake,River,Baidrag River,BD,T,BD_T,2024-10-10,Water,46.175416,99.025261,,,8.52,7.9,4.07,39.5,169,13.1,,40.76209215,52.33001946,4.143450726,21.77368458,5.567090769,18.4,49.3,1.45,10.1
+Orog Lake,Lake,Orog Lake,,,C1,15-Aug,Water,,,,"Gankhurel et al., 2022",9.08,24.7,19,476,123,7.76,,900,13.4,31.4,102,0,660,600,0,0
+Orog Lake,Lake,Orog Lake,,,C1,16-Aug,Water,,,,"Gankhurel et al., 2022",8.89,16.7,13,329,150,6.02,,640,26.1,45,95,0,510,350,0,0
+Orog Lake,Lake,Orog Lake,,,W1,17-Oct,Water,,,,"Gankhurel et al., 2022",9,5.7,12,278,161,7.96,,473,21.9,30.9,46.1,0,370,490,0,0
+Orog Lake,Lake,Orog Lake,,,W2,18-Aug,Water,,,,"Gankhurel et al., 2022",9.31,22.1,16,412,109,6.83,,780,16.5,47,95,0,670,500,0,0
+Orog Lake,Lake,Orog Lake,,,W3,18-Aug,Water,,,,"Gankhurel et al., 2022",9.12,21.9,16,434,92,7.12,,780,13.7,46,94,0,540,530,0,0
+Orog Lake,Lake,Orog Lake,,,W3bot,18-Aug,Water,,,,"Gankhurel et al., 2022",9.08,21.7,15,428,154,6.31,,800,14,49,95,0,520,500,0,0
+Orog Lake,Lake,Orog Lake,,,C2,18-Aug,Water,,,,"Gankhurel et al., 2022",9.14,21.8,10,266,99,5.78,,458,19.2,30.6,59,0,320,330,0,0
+Orog Lake,Lake,Orog Lake,,,C2bot,18-Aug,Water,,,,"Gankhurel et al., 2022",9.15,21,11,271,91,5.25,,473,19.2,30.7,62,0,280,320,0,0
+Orog Lake,Lake,Orog Lake,,,C1,18-Aug,Water,,,,"Gankhurel et al., 2022",9.17,22,11,266,101,5.4,,467,21.1,31.8,62,0,280,300,0,0
+Orog Lake,Lake,Orog Lake,,,C1,20-Jul,Water,,,,"Gankhurel et al., 2022",9.27,25.7,20,850,,4,,1860,8,102,177,0,1450,1100,0,0
+Orog Lake,Lake,Orog Lake,,,C1,20-Sep,Water,,,,"Gankhurel et al., 2022",9.34,16.6,58,3960,101,4.4,,10500,40,420,211,0,7600,7800,0,0
+Orog Lake,River,Tuin River,,,Tuin R.,18-Aug,Water,,,,"Gankhurel et al., 2022",8.26,18.6,2.1,27.2,132,5.31,,11.2,35.6,2.2,6.3,0,4.2,20,0,0

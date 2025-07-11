@@ -3,6 +3,7 @@ flake8
 isort
 jupyter
 jupyterlab
+ipywidgets
 mypy
 numpy
 pandas
